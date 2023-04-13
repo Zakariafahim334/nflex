@@ -11,6 +11,10 @@
 -------------------------------------------------------------------------------*/
 @import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700);
 
+.container {
+    padding-top: 20%;
+}
+
 p {
 	font-size: 14px;
 	line-height: 22.4px;
@@ -315,7 +319,7 @@ ul li {
 	Banner
 -------------------------------------------------------------------------------*/
 .banner {
-	background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/f1c3c4eb-2fea-42c7-9ebd-1c093bd8a69d/745a8018-5aac-4c59-b82a-362ef3bb8332/MA-en-20230403-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+	background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/f1c3c4eb-2fea-42c7-9ebd-1c093bd8a69d/745a8018-5aac-4c59-b82a-362ef3bb8332/MA-en-20230403-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
 	min-height: 750px;
 }
 .banner-text {
